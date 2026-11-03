@@ -12,7 +12,7 @@ remediation recommendations.
 **Career Objective:** Seeking a **Junior Penetration Tester** role.
 
 [LinkedIn](https://www.linkedin.com/in/reinaldy-thendean-5b9aaa335) ·
-[GitHub](https://github.com/dewafanii) · [Cyber
+[Cyber
 Writeups](https://github.com/dewafanii/cyber-writeups) ·
 reinaldy.thendean3@gmail.com
 
