@@ -102,6 +102,20 @@ application.
 -   Explored Windows API usage, process injection, and basic evasion
     techniques.
 -   Published a technical write-up on Medium.
+**[View Writeup](https://medium.com/@reinaldy.thendean3/offensive-security-engineering-a-step-by-step-poc-for-bypassing-windows-defender-using-a-custom-c-5b66b2cbe984))**
+
+### 4. Active Directory Penetration Test --- HTB Academy Lab
+
+End-to-end internal AD pentest documented from unauthenticated recon to full domain compromise.
+
+-   Chained 5 techniques: LLMNR poisoning → plaintext creds in SMB share → MSSQL
+    xp_cmdshell + SeImpersonatePrivilege abuse → BloodHound-mapped GenericAll ACL abuse → DCSync.
+-   Extracted krbtgt hash (Golden Ticket pre-requisite), confirming full domain compromise of
+    INLANEFREIGHT.LOCAL.
+-   Write-up includes attack path diagram, per-phase impact analysis, root cause analysis,
+    and defender remediation notes.
+
+**[View Writeup](https://github.com/dewafanii/Active-Directory-Writeups)**
 
 ------------------------------------------------------------------------
 
