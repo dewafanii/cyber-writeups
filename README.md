@@ -47,11 +47,9 @@ Information Technology graduate (GPA: **3.82/4.00**) with hands-on experience in
 
 Practical vulnerability research documented in structured pentest reports.
 
-- **IDOR — Free Purchase via OTP Bypass (./IDOR_Free_Purchase_Report.pdf) :** Exploited a purchase-flow logic weakness. CVSS v3.1: **7.5 (High)** 
-- **Command Injection — Ping Feature Filter Bypass:** Demonstrated RCE through input-filter bypass. CVSS v3.1: **9.8 (Critical)**
+- [**IDOR — Free Purchase via OTP Bypass**](./IDOR_Free_Purchase_Report.pdf) — Exploited a purchase-flow logic weakness. CVSS v3.1: **7.5 (High)**
+- [**Command Injection — Ping Feature Filter Bypass**](./Command_Injection_Ping_Report.pdf) — Demonstrated RCE through input-filter bypass. CVSS v3.1: **9.8 (Critical)**
 - Reports include technical analysis, proof of concept, business impact, risk assessment, and remediation.
-
-**[View Writeups](https://github.com/dewafanii/cyber-writeups)**
 
 ---
 
